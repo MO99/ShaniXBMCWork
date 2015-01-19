@@ -2319,2221 +2319,2221 @@
 <streaminginfo>
 	<cname>Lindex</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/WeladElBalad_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/WeladElBalad.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
 	<cname>Toktok</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/25TV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/25TV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>4Shbab</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/4Shbab_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/4Shbab.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>7Stars</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/7Stars_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/7Stars.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>A1 Jordan</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/A1Jordan_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/A1Jordan.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AAAMusic</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AAAMusic_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AAAMusic.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>ABN</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ABN_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ABN.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Abu Dhabi</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ADAlOula_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ADAlOula.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Abu Dhabi Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ADDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ADDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Abu Dhabi Emirates</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ADEmirates_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ADEmirates.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aden</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Aden_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Aden.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>National Geo Ad</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ADNatGeo_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ADNatGeo.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Abu Dhabi Sports 1</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ADSport_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ADSport.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aghanina</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Aghanina_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Aghanina.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aghapy</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Aghapy_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Aghapy.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Ajman</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Ajman_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Ajman.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Ajyal</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AjyalTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AjyalTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alan</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlAan_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlAan.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Adala</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlAdala_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlAdala.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AL AHLY</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlAhlyTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlAhlyTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Libya</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlAhrar_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlAhrar.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Amaken Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlAmakenDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlAmakenDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Anwar</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlAnwar_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlAnwar.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al oula Maroc</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlAoulaEurope_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlAoulaEurope.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alarabiya</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlArabiya_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlArabiya.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alarabiya Ahdas</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlArabiyaHadath_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlArabiyaHadath.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>EnnaharTV algerie</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlAtlas_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlAtlas.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlBabeleyia</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlBabeleyia_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlBabeleyia.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Baghdadia</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlBaghdadia_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlBaghdadia.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Baghdadia 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlBaghdadia2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlBaghdadia2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Albait Baitak Cinema</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlbaitBaitakCinema_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlbaitBaitakCinema.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Dafra</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlDafra_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlDafra.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>alkass</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlDawriAlKassSport_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlDawriAlKassSport.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aldiyar</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AldiyarSat_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AldiyarSat.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Ikhbaria</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlEkhbariya_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlEkhbariya.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Eman</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlEman_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlEman.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Eqtisadiyah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlEqtisadiyah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlEqtisadiyah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Fayhaa</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlFayhaa_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlFayhaa.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Forat</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlForat_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlForat.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Haqeeqa</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlHaqeeqa_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlHaqeeqa.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlHayat_Christian</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ALhayat_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ALhayat.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alhayat2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Alhayat2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Alhayat2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alhayat-Series</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlHayatMousalsalat_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlHayatMousalsalat.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlHayat Sport</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlHayatSport_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlHayatSport.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Hiwar</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlHiwar_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlHiwar.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Hiwar Ettounsi</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlHiwarTunis_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlHiwarTunis.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al-hurra Iraq</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlhurraIraq_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlhurraIraq.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Iraqiya Tarbawiyah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlIraqAlTarbawiyah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlIraqAlTarbawiyah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Iraqiya Documentary</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlIraqiaDocumentary_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlIraqiaDocumentary.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aliraqia 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlIraqia2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlIraqia2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aliraqiya</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlIraqiya_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlIraqiya.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aljadeed</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlJadeed_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlJadeed.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlJazeera</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlJazeera_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlJazeera.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aljazeera Doc</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlJazeeraDocument_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlJazeeraDocument.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aljazeera En</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlJazeeraEnglish_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlJazeeraEnglish.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aljazeera US</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlJazeeraInt_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlJazeeraInt.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aljazeera Children</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlJazeeraKid_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlJazeeraKid.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aljazeera Mubasher</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlJazeeraLive_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlJazeeraLive.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlKahera</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlKahera_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlKahera.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlQahera W Elnas</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlKaheraWalNas_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlKaheraWalNas.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlQahera W Elnas 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlKaheraWalNas2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlKaheraWalNas2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alkarama_Christian</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlKarma_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlKarma.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Kout</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlKout_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlKout.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Lubnania</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlLubnania_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlLubnania.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Maghribia</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlMaghribia_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlMaghribia.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Majd</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlmajdSpace_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlmajdSpace.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlMalakot</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlMalakot_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlMalakot.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Manar</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlManar_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlManar.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Almas</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlMas_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlMas.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Masar</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlMasar_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlMasar.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlMasrawia</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlMasrawia_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlMasrawia.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Masriyah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlMasriyah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlMasriyah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al mayaden</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlMayadeen_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlMayadeen.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlMukhales</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlMukhales_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlMukhales.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Moustakilla</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlMustakila_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlMustakila.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Nahar</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlNahar_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlNahar.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alnahar Alyoum</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlNahar2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlNahar2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al-Nahar Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlNaharDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlNaharDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Nahar 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlNaharMovies_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlNaharMovies.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Nahar Sport</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlNaharSport_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlNaharSport.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Ordonia</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlOrdoni_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlOrdoni.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alqithara</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlQithara_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlQithara.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alqudis</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Alquds_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Alquds.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Quran TV ksa</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlQuran_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlQuran.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Rafidain</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlRafidain_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlRafidain.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alrai</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Alrai_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Alrai.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Rasheed</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlRasheed_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlRasheed.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al-Resalah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlResala_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlResala.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Saudia Sport</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlRiyadiah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlRiyadiah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Saudia Sport</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlRiyadiah1_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlRiyadiah1.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Sabah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlSabah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlSabah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>alsaeedah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlSaeeda_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlSaeeda.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al sahraa</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlSahraa_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlSahraa.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Shaab</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlShaab_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlShaab.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Sharqiya</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlSharqiya_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlSharqiya.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Sharqiya News</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlsharqiyaNews_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlsharqiyaNews.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Ashorooq</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlShrooq_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlShrooq.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Sumaria</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Alsumaria_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Alsumaria.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>sunnah TV</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlSunnah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlSunnah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Algharam Cinema</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlTet_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlTet.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Thakafiyah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlThakafiyah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlThakafiyah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Egypt 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlThanya_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlThanya.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>alwatan</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Alwatan_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Alwatan.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alwatan Plus</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlwatanPlus_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlwatanPlus.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>ANB</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ANB_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ANB.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>ANN</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ANN_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ANN.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alaqsa</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AqsaSatCh_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AqsaSatCh.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Arabica Music</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ArabicaMusic_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ArabicaMusic.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Arrabia</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Arrabiaa_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Arrabiaa.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alriadia Sport</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Arryadia_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Arryadia.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Assadissa</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Assadissa_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Assadissa.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AssyrSat</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AssyrSat_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AssyrSat.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Atfal wa Mawaheb</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AtfalwaMawaheb_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AtfalwaMawaheb.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Baghdad</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Baghdad_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Baghdad.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bahrain</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Bahrain_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Bahrain.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bahrain</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/BahrainInt_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/BahrainInt.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>BAHRAIN SPORTS</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/BahrainSport_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/BahrainSport.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Baraem</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Baraem_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Baraem.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>BBC Arabic</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/BBCArabic_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/BBCArabic.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Bein Sport News</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/beINSports_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/beINSports.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>BEIN US</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/beINSportsNews_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/beINSportsNews.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Beladi</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Beladi_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Beladi.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Blue Nile</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/BlueNile_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/BlueNile.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Cairo Cinema</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/CairoCinema_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/CairoCinema.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Cairo Comedy</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/CairoComedy_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/CairoComedy.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Cairo Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/CairoDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/CairoDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlGeria</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/CanalAlgerie_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/CanalAlgerie.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>CBC</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/CBC_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/CBC.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>CBC Extra</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/CBC2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/CBC2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>CBC Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/CBCDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/CBCDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>CBC Sofra</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/CBCSofra_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/CBCSofra.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>CCTV Arabic</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/CCTVArabia_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/CCTVArabia.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Chabab</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Chabab_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Chabab.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Cima</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Cima_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Cima.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Cartoon Network</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/CNArabia_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/CNArabia.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Coptic_Christian</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/CTVEgypt_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/CTVEgypt.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dejlah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Dejlah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Dejlah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>DM</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/DM_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/DM.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dream 1</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Dream1_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Dream1.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dream 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Dream2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Dream2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dubai</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/DubaiEurope_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/DubaiEurope.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dubai One</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/DubaiOne_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/DubaiOne.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dubai Sport HD2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/DubaiSport_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/DubaiSport.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dubai Sport HD2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/DubaiSport2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/DubaiSport2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Dubai Sport 3</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/DubaiSports_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/DubaiSports.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>DW Arabic</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/DWTVArabia_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/DWTVArabia.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Mehwar</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ElMehwar_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ElMehwar.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>ETV1</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ETV1_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ETV1.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Euro News Arabic</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/EuroNews_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/EuroNews.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Fatafeat</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Fatafeat_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Fatafeat.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Fx Arabia</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Fox_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Fox.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Fox Movies</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/FoxMovies_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/FoxMovies.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>France 24</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/France24Arabic_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/France24Arabic.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Funoon</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Funoon_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Funoon.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Future TV</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Future_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Future.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Future News</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/FutureNews_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/FutureNews.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Future TV</cname>
 	<item>
 		<title>HD-usa</title>
-		<link>http://$GL-IPHD$/FutureUSA_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<link>http://$GL-IPLOW$/FutureUSA.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Jordan</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/GamarHashimi_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/GamarHashimi.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>GearOne</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/GearOne_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/GearOne.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Gladiator</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Gladiator_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Gladiator.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Goan</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/GoanTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/GoanTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Hanibal</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Hannibal_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Hannibal.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alhayat 1</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Hayat_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Hayat.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>HodHod</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/HodHod_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/HodHod.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Huda</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Huda_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Huda.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>iFilm Arabic</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/iFilm_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/iFilm.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Imagines Movies</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ImagineMovies_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ImagineMovies.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Iqra</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Iqraa_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Iqraa.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Ishtar</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Ishtar_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Ishtar.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Jordan Sport</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/JordanSport_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/JordanSport.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Aljazeera Mubasher Masr</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/JSCLiveMisr_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/JSCLiveMisr.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Kaifa</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Kaifa_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Kaifa.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Karameesh</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Karameesh_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Karameesh.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Koky Kids</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Koky_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Koky.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>KSA 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/KSA2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/KSA2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>KTV2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/KTV2Kuwait_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/KTV2Kuwait.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>KTV Sport Plus</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/KTV3Plus_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/KTV3Plus.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>KTV ARABE</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/KTVAlArabi_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/KTVAlArabi.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Kuwait</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/KuwaitSpace_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/KuwaitSpace.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Chobra Cima</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/LayaliCinema_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/LayaliCinema.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Lbc Europe</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/LBC_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/LBC.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>LCD AFLAM</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/LcdTurkey_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/LcdTurkey.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>LDC</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/LDC_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/LDC.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Libya 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Libya_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Libya.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Libya AlWataniya</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/LibyaAlWataniya_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/LibyaAlWataniya.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Libya Sport 1</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/LibyaSportChannel1_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/LibyaSportChannel1.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>LineSport</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/LineSport_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/LineSport.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>LLBN</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/LLBN_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/LLBN.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>2M</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/M2Morocco_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/M2Morocco.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Mahbooba</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Mahbooba_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Mahbooba.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Cine Majesti</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MajesticCinema_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MajesticCinema.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Mara7</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Mara7_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Mara7.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Masrawi Aflam</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MasrawiAflam_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MasrawiAflam.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Massaya</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Massaya_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Massaya.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Mauritanie</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MauritaniaTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MauritaniaTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC 1</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MBC1_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MBC1.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MBC2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MBC2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC 3</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MBC3_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MBC3.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC 4</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MBC4_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MBC4.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC Action</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MBCAction_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MBCAction.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC Bollywood</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MBCBollywood_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MBCBollywood.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MBCDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MBCDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC Masr</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MBCMaser_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MBCMaser.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBCMasrPlus2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MBCMasrPlus2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MBCMasrPlus2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC Max</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MBCMax_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MBCMax.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Mea</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MeaTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MeaTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Medi 1 Sat</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Medi1_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Medi1.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Mehwar</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MehwarPlus2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MehwarPlus2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Miracle</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Miracle_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Miracle.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Maannews</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MixTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MixTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Moga Comedy</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MogaComedy_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MogaComedy.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Cairo Cinema 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Mosar3_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Mosar3.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MTV Arabia</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MTVArabia_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MTVArabia.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MTV</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MTVLebanon_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MTVLebanon.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Haneen Music</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MusicAlhanen_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MusicAlhanen.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Music+</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MusicPlus_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MusicPlus.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nart</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Nart_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Nart.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>NBN</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NBNLebanon_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NBNLebanon.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Neelain Sport</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NeelainSport_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NeelainSport.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nessma</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Nessma_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Nessma.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nessma</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NessmaAlKhadra_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NessmaAlKhadra.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Cinema</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NileCinema_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NileCinema.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Comedy</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NileComedy_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NileComedy.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Culture</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NileCulture_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NileCulture.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NileDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NileDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Drama 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NileDrama2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NileDrama2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Family</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NileFamily_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NileFamily.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Tv</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NileInt_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NileInt.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Life</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NileLife_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NileLife.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile News</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NileNews_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NileNews.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nile Sport</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NileSport_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NileSport.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nojoom1</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Nojoom1_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Nojoom1.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Noon Kids</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Noon_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Noon.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Noor Dubai</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NoorDubai_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NoorDubai.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>NoursatAlShabab</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NourAlShabab_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NourAlShabab.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Syria Nour</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/NourElSham_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/NourElSham.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Nourmina</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Nourmina_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Nourmina.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Noursat</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Noursat_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Noursat.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Oman</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Oman_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Oman.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Om Durman</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/OmDurman_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/OmDurman.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>On TV</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ONTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ONTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>ONTV Live</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ONTVLive_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ONTVLive.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Orient News</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/OrientNews_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/OrientNews.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>ORTM</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ORTM_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ORTM.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Oscar Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/OscarDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/OscarDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Oscar Drama 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/OscarDrama2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/OscarDrama2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>OTV Lebanon</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/OTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/OTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Oyoun Jeddah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/OyounJeddah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/OyounJeddah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Palestine AlYawm</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/PalestineAlYawm_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/PalestineAlYawm.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Palestine Live</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/PalestineLive_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/PalestineLive.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Palestine</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Palestinian_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Palestinian.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Panorama Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/PanoramaDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/PanoramaDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Panorama Drama 2</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/PanoramaDrama2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/PanoramaDrama2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Panorama film</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/PanoramaFilm_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/PanoramaFilm.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Qatar</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Qatar_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Qatar.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>RAK</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RAK_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RAK.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Rotana Aflam</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RotanaAflam_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RotanaAflam.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Rotana Cinema</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RotanaCinema_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RotanaCinema.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Rotana Clip</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RotanaClip_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RotanaClip.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Rotana Khaligi</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RotanaKhalijiah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RotanaKhalijiah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Rotana Masriya</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RotanaMasriya_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RotanaMasriya.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Rotana Music</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RotanaMusic_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RotanaMusic.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Rotana Classic</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RotanaZaman_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RotanaZaman.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Roya</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Roya_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Roya.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Royal Albadawiya</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RoyalAlBadawia_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RoyalAlBadawia.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Royal Edhak</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RoyalEdhak_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RoyalEdhak.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Royal Secret</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RoyalSecrets_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RoyalSecrets.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Djibouti</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RTD_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RTD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Russia Alyaum</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/RussiyaAlYaum_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/RussiyaAlYaum.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sada Al Balad</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SadaAlBalad_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SadaAlBalad.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sada AlBalad Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SadaAlBaladDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SadaAlBaladDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sama Cinema</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SamaCinema_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SamaCinema.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sama Dubai</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SamaDubai_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SamaDubai.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sama Syria</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SamaTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SamaTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Samira TV</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SamiraTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SamiraTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sat7 Kid</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Sat7Kid_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Sat7Kid.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>KSA 1</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SaudiArabia1_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SaudiArabia1.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Scope</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ScopeTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ScopeTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>SM SM KIDS</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Semsem_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Semsem.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sharjah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SharjahTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SharjahTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sheba</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Sheba_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Sheba.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>SkyNewsArabia</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SkyNews_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SkyNews.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>SNTV</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SNTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SNTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Space Power</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SpacePower_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SpacePower.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Spacetoon</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SpaceToonArabic_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SpaceToonArabic.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>SSTV</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SSTV_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SSTV.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Star 1 Cinema</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/StarCinema1_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/StarCinema1.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Star 2 Cinema</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/StarCinema2_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/StarCinema2.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Sudan TV</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Sudan_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Sudan.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Syria Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SyriaDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SyriaDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Syria Sedu</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SyrianEducation_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SyrianEducation.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Syria</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/SyriaSat_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/SyriaSat.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Taha</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Taha_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Taha.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Tahrir</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Tahrir_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Tahrir.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Syria Talaqie</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Talaqi_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Talaqi.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Tamazigh Maroc</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Tamazight_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Tamazight.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Tayba</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Tayba_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Tayba.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Tele Liban</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/TeleLiban_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/TeleLiban.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Algeria 3</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Thalitha_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Thalitha.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Time Cinema</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/TimeCinema_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/TimeCinema.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Time Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/TimeDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/TimeDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Taxi El Sahra</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/TimeTiatro_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/TimeTiatro.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Top Movies</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/TopMovies_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/TopMovies.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Hiwar Ettounsi</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Tounisa_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Tounisa.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Toyor Al Janah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ToyorAlJanah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ToyorAlJanah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TRT Arabic</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/TRTArabic_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/TRTArabic.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Tounesna</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Tunisia_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Tunisia.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Tunisia national 1</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Tunisie7_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Tunisie7.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>TV 5 MONDE</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/TV5_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/TV5.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Unrwa</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Unrwa_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Unrwa.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Wanasah</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Wanasah_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Wanasah.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Yemen</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/Yemen_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/Yemen.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Zee Aflam</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ZeeAflam_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ZeeAflam.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Zee Alwan</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ZeeAlwan_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ZeeAlwan.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Zweina Bladna</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/ZweinaBaladna_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/ZweinaBaladna.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al Taghier</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/AlTaghier_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/AlTaghier.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>MBC Masr Drama</cname>
 	<item>
-		<title>HD</title>
-		<link>http://$GL-IPHD$/MBCMaserDrama_HD.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
+		<title>Low</title>
+		<link>http://$GL-IPLOW$/MBCMaserDrama.m3u8?session=$GL-Sesession$&amp;hlsid=HLS_2487419</link>
 	</item>
 </streaminginfo>
 
